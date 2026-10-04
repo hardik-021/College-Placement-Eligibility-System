@@ -1,0 +1,40 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache / compiled files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Django database
+backend/db.sqlite3
+*.sqlite3
+
+# Frontend dependencies and builds
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE / Editor files
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Scratch and other temp folders
+scratch/
