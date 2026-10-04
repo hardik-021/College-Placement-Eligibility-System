@@ -95,8 +95,6 @@ python seed.py
 python manage.py runserver
 ```
 
-Backend will run at: **http://localhost:8000/**
-
 ---
 
 ### 💻 Frontend Setup
@@ -111,8 +109,6 @@ npm install
 # Start Vite development server
 npm run dev
 ```
-
-Frontend will run at: **http://localhost:5173/**
 
 ---
 
