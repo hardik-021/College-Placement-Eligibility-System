@@ -156,12 +156,6 @@ Frontend will run at: **http://localhost:5173/**
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your app here_
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
